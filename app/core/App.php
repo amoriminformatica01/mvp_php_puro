@@ -5,9 +5,9 @@ class App
 	/**
 	 * default controller
 	 * @var $controller
-	 * @param 'homeController'
+	 * @param ''
 	 */
-	protected $controller = 'homeController';
+	protected $controller = '';
 	
 	/**
 	 * default method
